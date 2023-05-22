@@ -121,6 +121,7 @@
   text-shadow: 2px 0 0 rgba(0,0,0,0);
   box-shadow: 0px rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: bold;
   margin: 108px calc(((100% - 1140px) / 2) + 29px) 0 calc(((100% - 1140px) / 2) + 55px);
 }
 
@@ -160,7 +161,6 @@
   }
 
   .u-section-1 .u-text-6 {
-    font-weight: bold;
     width: auto;
     margin-top: 92px;
     margin-right: auto;
@@ -339,7 +339,6 @@
   }
 
   .u-section-1 .u-text-6 {
-    font-size: 1.875rem;
     transition-duration: 0.5s;
     margin-top: 50px;
     margin-left: calc(((100% - 340px) / 2) + -24px);
@@ -397,6 +396,7 @@
   text-shadow: 2px 0 0 rgba(0,0,0,0);
   box-shadow: 0px rgba(0,0,0,0) 0 rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: bold;
   margin: 0 -24px 0 56px;
 }
 
@@ -407,10 +407,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 .u-text-1 {
-    font-weight: bold;
-  }
-
   .u-section-2 .u-text-2 {
     font-size: 1.5rem;
     margin-right: 0;
@@ -429,7 +425,6 @@
   }
 
   .u-section-2 .u-text-1 {
-    font-size: 1.875rem;
     transition-duration: 0.5s;
     width: auto;
     margin-top: 0;
@@ -484,6 +479,7 @@
   text-shadow: 2px 0 0 rgba(0,0,0,0);
   box-shadow: 0px rgba(0,0,0,0) 0 rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: bold;
   margin: 0 -24px 0 56px;
 }
 
@@ -494,10 +490,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-text-1 {
-    font-weight: bold;
-  }
-
   .u-section-3 .u-text-2 {
     font-size: 1.5rem;
     margin-right: 0;
@@ -571,6 +563,7 @@
   text-shadow: 2px 0 0 rgba(0,0,0,0);
   box-shadow: 0px rgba(0,0,0,0) 0 rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: bold;
   margin: 0 -24px 0 56px;
 }
 
@@ -581,10 +574,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-text-1 {
-    font-weight: bold;
-  }
-
   .u-section-4 .u-text-2 {
     font-size: 1.5rem;
     margin-right: 0;
@@ -652,6 +641,7 @@
   text-shadow: 2px 0 0 rgba(0,0,0,0);
   box-shadow: 0px rgba(0,0,0,0) 0 rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: bold;
   margin: 0 -24px 0 56px;
 }
 
@@ -662,10 +652,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 .u-text-1 {
-    font-weight: bold;
-  }
-
   .u-section-5 .u-text-2 {
     font-size: 1.5rem;
     margin-right: 0;
@@ -824,7 +810,6 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-text-1 {
-    font-size: 1.875rem;
     transition-duration: 0.5s;
   }
 }

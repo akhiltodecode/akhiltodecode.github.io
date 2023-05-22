@@ -42316,42 +42316,36 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 196px;
   }
 }
- .u-footer {
-  background-image: none;
-}
-
 .u-footer .u-sheet-1 {
   min-height: 120px;
 }
 
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
+.u-footer .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 116px;
+  min-width: 68px;
+  margin: 43px auto 46px;
 }
-@media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
-  }
-}
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
-}
-@media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
-  }
-}
-@media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
 
-  .u-footer .u-text-1 {
-    width: 340px;
-  }
+.u-footer .u-icon-1 {
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
 }
+
+.u-footer .u-icon-2 {
+  height: 100%;
+  color: rgb(219, 83, 75) !important;
+}
+
+.u-footer .u-icon-3 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
+}
+
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
